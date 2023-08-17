@@ -27,6 +27,6 @@ ___
   Mozilla Firefox, Edge, и др.
 - Разрешения экрана: 1440, 1024, 768, 320.
 
-[Ссылка на GitHub Pages](dmitriyfff.github.io/prozhito/)
+[Ссылка на GitHub Pages](https://dmitriyfff.github.io/prozhito/)
 
 
